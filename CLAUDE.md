@@ -15,3 +15,10 @@ Frontend AI Capstone for FlyRank Frontend AI Engineering Internship.
 - Keep components small and reusable.
 - Follow Conventional Commits.
 - Use AI to assist with coding, but review generated code.
+
+
+
+## AI Assistant
+
+Primary AI assistant: Claude
+Editor: Cursor
