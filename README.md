@@ -1,4 +1,4 @@
-# # Frontend AI Capstone
+# Frontend AI Capstone
 
 This repository contains my work for the FlyRank Frontend AI Engineering Internship.
 
@@ -50,8 +50,3 @@ This project was created to complete the setup phase of the internship, includin
 
 - Prepare for future frontend development tasks
 
-
-
-## Author
-
-**GitHub:** [@maheenjawad31](https://github.com/Maheenjawad31)
