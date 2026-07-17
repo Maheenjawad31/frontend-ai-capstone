@@ -13,40 +13,27 @@ This project was created to complete the setup phase of the internship, includin
 ### Development Tools
 
 - Node.js
-
 - Git & GitHub
-
 - Cursor
-
 - Claude AI
 
 ### Application Stack
 
 - React
-
 - Next.js
-
 - TypeScript
-
 - Tailwind CSS
 
 ## Repository Structure
 
 - `README.md` – Project overview and setup information
-
 - `CLAUDE.md` – AI coding guidelines and project conventions
-
 - `.gitignore` – Files excluded from Git tracking
-
 - `LICENSE` – MIT License
 
 ## Goals
 
 - Learn Git and GitHub workflow
-
 - Practice Conventional Commits
-
 - Set up an AI-assisted development environment
-
 - Prepare for future frontend development tasks
-
