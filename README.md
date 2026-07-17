@@ -1,14 +1,14 @@
-# Frontend AI Capstone
+# # Frontend AI Capstone
 
-This repository contains my work for the **FlyRank Frontend AI Engineering Internship**.
+This repository contains my work for the FlyRank Frontend AI Engineering Internship.
 
 ## Week 1 Assignment
 
-**Environment and AI Toolchain**
+### Environment and AI Toolchain
 
 This project was created to complete the setup phase of the internship, including configuring the development environment, Git, GitHub, and AI-assisted development tools.
 
-## ## Tech Stack
+## Tech Stack
 
 ### Development Tools
 
@@ -40,13 +40,14 @@ This project was created to complete the setup phase of the internship, includin
 
 - `LICENSE` – MIT License
 
-
-
 ## Goals
 
 - Learn Git and GitHub workflow
+
 - Practice Conventional Commits
+
 - Set up an AI-assisted development environment
+
 - Prepare for future frontend development tasks
 
 
