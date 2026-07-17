@@ -33,8 +33,11 @@ This project was created to complete the setup phase of the internship, includin
 ## Repository Structure
 
 - `README.md` – Project overview and setup information
+
 - `CLAUDE.md` – AI coding guidelines and project conventions
+
 - `.gitignore` – Files excluded from Git tracking
+
 - `LICENSE` – MIT License
 
 
